@@ -1,1 +1,0 @@
-# mobile-app-ws-my-rest-assured-test
